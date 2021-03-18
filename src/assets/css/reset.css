@@ -1,7 +1,7 @@
 @charset "utf-8";
-html,body{width:100%;height:100%;-webkit-text-size-adjust:none;-webkit-tap-highlight-color:transparent;}	
+html,body{width:100%;-webkit-text-size-adjust:none;-webkit-tap-highlight-color:transparent;}	
 body {-webkit-overflow-scrolling:touch;font:15px/1.4 PingHei,Verdana, Microsoft YaHei, Helvetica, Arial, Hiragino Sans GB, sans-serif, Simsun;
-    font-family: Circular, PingFang-SC, "Hiragino Sans GB", 微软雅黑, "Microsoft YaHei", "Heiti SC" ;
+    font-family:  PingFang-SC, "Hiragino Sans GB", 微软雅黑, "Microsoft YaHei", "Heiti SC" ;
     background-color: #f8f8f8;
 }
 body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,button,textarea,p,blockquote,th,td,hr{margin:0;padding:0; }

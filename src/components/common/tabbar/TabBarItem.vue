@@ -49,12 +49,12 @@ export default {
 .tab-bar-item {
 	flex: 1;
 	text-align: center;
-	height: 49px;
-	font-size: 14px;
+	height: 1.31rem;
+	font-size: 0.38rem;
 }
 .tab-bar-item img {
-	margin-top: 3px;
-	width: 24px;
+	margin-top: 0.08rem;
+	width: 0.64rem;
 	vertical-align: middle;
 }
 </style>
